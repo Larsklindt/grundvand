@@ -1,2 +1,2 @@
-# grundvand
-GIS analyse til overblik for grundvandssikring
+# Groundwater
+GIS analysis repository for overview of GIS layers when considering strategy for groundwater
